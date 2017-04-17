@@ -6,4 +6,10 @@ Created a game where a player navigates around a maze collecting coins and attem
 
 __Development Process__
 
+Some C# scripting was used in order to make the key's particles fly in Unity as well as `object.instantiante` for my door game object. It was necessary to create small cube-like game objects and scale all the walls to proper size. I had gathered my maze ideas from mazes I used to do on paper as a kid in elementary school. If I could go start to finish at first glance, I knew that would not be a good layout for my labyrinth. A lot of creativity went into the maze. I tried making sure that my pillars didn't go under the plane of my designated space and that the walls were rotated so that the picture was seamless. 
+
+**User Testing**
+
+I noticed that children were able to find the key much faster than adults. It took my 10 year old niece less than 5 minutes to find the key and she was able to get to the door, unlock it, and cross the finish line. My 50 year old co-worker took forever to find the key but only did so once I showed him where it was located. It was tucked in the middle of the maze and only then could he get to the finish line. 
+
 
