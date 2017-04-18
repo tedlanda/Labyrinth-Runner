@@ -12,4 +12,8 @@ Some C# scripting was used in order to make the key's particles fly in Unity as 
 
 I noticed that children were able to find the key much faster than adults. It took my 10 year old niece less than 5 minutes to find the key and she was able to get to the door, unlock it, and cross the finish line. My 50 year old co-worker took forever to find the key but only did so once I showed him where it was located. It was tucked in the middle of the maze and only then could he get to the finish line. 
 
+__Breakdown of final piece__
+
+![Alt Text](https://github.com/tedlanda/Labyrinth-Runner/blob/master/P3/Screenshots/Android1.png)
+![Alt Text](https://github.com/tedlanda/Labyrinth-Runner/blob/master/P3/Screenshots/Android2.png)
 
