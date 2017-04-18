@@ -19,5 +19,5 @@ __Breakdown of final piece__
 
 **Conclusion**
 
-The scripting aspect was the hardest part to making a well working maze. It was easy to make the particles fly out of catching the key but actually putting it in your pocket and using it (virtually) to unlock the door took a few lines of code editing. It was easy to make the door fly up but having to make it stay at the level I needed it to was some work in progress.
+The scripting aspect was the hardest part to making a well working maze. It was easy to make the particles fly out of catching the key but actually putting it in your pocket and using it (virtually) to unlock the door took a few lines of code editing. It was easy to make the door fly up but having to make it stay at the level I needed it to took some work.
 
